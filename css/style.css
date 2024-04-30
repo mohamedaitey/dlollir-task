@@ -1,0 +1,26 @@
+hr{
+width: 65%;
+
+
+}
+.mmm{
+margin: 50px;
+
+}
+.jjj{
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+}
+.mmm h2{
+    color: rgb(255, 200, 0);
+}
+.nnn{
+    text-align: center;
+    letter-spacing: 2px;
+}
+.bbb h2{
+    text-align: center;
+    letter-spacing: 2px;
+color: rgba(150, 15, 119, 0.477);
+}
